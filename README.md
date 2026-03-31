@@ -5,7 +5,7 @@ This is an unknown application written in Java
 ### Use Case Diagram
 
 ```mermaid
-usecaseDiagram
+usecase
     actor Student
     actor Admin
 
